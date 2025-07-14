@@ -6,3 +6,8 @@ Recent progress in deep learning, specifically in convolutional and transformer-
 to classify medical images with high accuracy. In this paper, we introduce and evaluate a new hybrid model called MedAttNet,
 which combines both CNN and attention mechanisms for brain cancer classification. MedAttNet is also compared with two stateof-the-art (SOTA) approaches, VGG19 and baseline CNN; the former is a powerful visual feature extraction model based on deep CNN, and the latter is a new work focusing on hierarchical
 attention for a better understanding of context. All three models were trained and validated on a publicly available T1-weighted contrast-enhanced brain cancer MRI database containing three types of cancers. Data augmentation was used to make the models more robust. Among the models compared, our proposed hybrid MedAttNet achieved the best classification accuracy, and the lowest computational complexity compared to those of VGG19 and the baseline CNN in general. The results suggest that our hybrid deep learning architecture can be very promising in the task of medical image classification, providing a robust, effective, and scalable approach to diagnosing brain cancers.
+
+# Pipeline
+
+# Dataset
+Rahman, Md Mizanur (2024), “Brain Cancer -  MRI dataset”, Mendeley Data, V1, doi: 10.17632/mk56jw9rns.1

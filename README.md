@@ -1,5 +1,5 @@
-# MedAttNet
-# MedAttNet: A Novel Architecture for Precise Brain Cancer Classification
+# MedAttnNet
+# MedAttnNet: A Novel Architecture for Precise Brain Cancer Classification
 # Introduction
 Brain cancer is a serious problem causing a direct threat to human health, and efficient and early diagnosis is required for the improvement of the patient’s prognosis. Magnetic Resonance Imaging (MRI) has been demonstrated as a star non-invasive modality for neurological studies (such as cancers).
 Recent progress in deep learning, specifically in convolutional and transformer-based architectures, has further advanced the ability

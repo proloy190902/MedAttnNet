@@ -41,4 +41,4 @@ Brain Tumor: 3,335 images
 ![SE](https://github.com/proloy190902/MedAttnNet/blob/5b1060986ea007eb9ffd990bc17da75c534afb2e/SE.png)
 
 # Transformer Block
-![Transformer]()
+![Transformer](https://github.com/proloy190902/MedAttnNet/blob/59d16c3e5cd0d8e584fb28f5015e4c380d668f17/Trabsformer.png)

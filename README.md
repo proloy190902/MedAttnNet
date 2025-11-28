@@ -9,5 +9,8 @@ attention for a better understanding of context. All three models were trained a
 
 # Pipeline
 
+![Workflow](https://github.com/proloy190902/MedAttnNet/blob/27be27ed30bcc322c14abb8c3d99181685bfd302/fig-1.png)
+
+
 # Dataset: https://data.mendeley.com/datasets/mk56jw9rns/1
 Rahman, Md Mizanur (2024), “Brain Cancer -  MRI dataset”, Mendeley Data, V1, doi: 10.17632/mk56jw9rns.1

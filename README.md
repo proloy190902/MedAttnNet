@@ -25,6 +25,8 @@ attention for a better understanding of context. All three models were trained a
 
 # Dataset: https://data.mendeley.com/datasets/mk56jw9rns/1
 Rahman, Md Mizanur (2024), “Brain Cancer -  MRI dataset”, Mendeley Data, V1, doi: 10.17632/mk56jw9rns.1
+
+# Dataset Description
 Total Images: 6,056 T1-weighted contrast-enhanced MRI scans
 Classes:
 Brain Glioma: 2,004 images
@@ -32,4 +34,8 @@ Brain Meningioma: 1,717 images
 Brain Tumor: 3,335 images
 
 # Proposed MedAttnNet Architecture
+![MedAttnNet](https://github.com/proloy190902/MedAttnNet/blob/23d5a3ab5626a37c112088440717b303037552ed/MedAttnNet.png)
 
+# Architecture Components
+
+![MedAttnNet]()

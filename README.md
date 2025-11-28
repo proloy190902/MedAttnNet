@@ -38,7 +38,7 @@ Brain Tumor: 3,335 images
 
 # Architecture Components Details 
 # Squeeze-and-Excitation Block
-![SE]()
+![SE](https://github.com/proloy190902/MedAttnNet/blob/5b1060986ea007eb9ffd990bc17da75c534afb2e/SE.png)
 
 # Transformer Block
 ![Transformer]()

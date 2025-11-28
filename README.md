@@ -42,3 +42,13 @@ Brain Tumor: 3,335 images
 
 # Transformer Block
 ![Transformer](https://github.com/proloy190902/MedAttnNet/blob/59d16c3e5cd0d8e584fb28f5015e4c380d668f17/Trabsformer.png)
+
+# Results
+| Model           | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
+|-----------------|--------------|---------------|------------|--------------|
+| **Proposed Model** | **98.27** | **98.30** | **98.11** | **98.19** |
+| VGG-16          | 91.84        | 91.89         | 91.92      | 91.89       |
+| Simple CNN      | 92.00        | 92.00         | 92.00      | 92.00       |
+
+
+

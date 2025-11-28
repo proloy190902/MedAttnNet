@@ -36,6 +36,9 @@ Brain Tumor: 3,335 images
 # Proposed MedAttnNet Architecture
 ![MedAttnNet](https://github.com/proloy190902/MedAttnNet/blob/23d5a3ab5626a37c112088440717b303037552ed/MedAttnNet.png)
 
-# Architecture Components
+# Architecture Components Details 
+# Squeeze-and-Excitation Block
+![SE]()
 
-![MedAttnNet]()
+# Transformer Block
+![Transformer]()
